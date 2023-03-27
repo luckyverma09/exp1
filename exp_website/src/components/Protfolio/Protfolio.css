@@ -21,7 +21,7 @@ li {
   padding: 1rem;
   margin-bottom: 1rem;
   border-radius: 0.3rem;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.5s ease-in-out;
   position: relative;
 }
 
